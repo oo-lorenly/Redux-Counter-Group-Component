@@ -1,0 +1,63 @@
+.counter-group{
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 20px;
+}
+
+.counter-group input {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.regButton {
+    font-size: 2rem;
+    width: 100%;
+}
+
+.regenerate {
+    display: flex;
+    flex-direction: column;
+    min-height: 80px
+}
+
+.regenerate-input {
+    margin-bottom: 20px
+}
+
+.regenerate span {
+    color: green;
+}
+
+.counter-group{
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 20px;
+}
+
+.counter-group input {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.regButton {
+    font-size: 2rem;
+    width: 100%;
+}
+
+.regenerate {
+    display: flex;
+    flex-direction: column;
+    min-height: 80px
+}
+
+.regenerate-input {
+    margin-bottom: 20px
+}
+
+.regenerate span {
+    color: green;
+}
